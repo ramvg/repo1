@@ -3,7 +3,7 @@
 ## Installation
 
 - Install Java
-- Install Maven now
+- Install Master now
 
 
 - Build package: `$ mvn clean install`
