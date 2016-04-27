@@ -1,10 +1,10 @@
-# My Maven sample app
+# My Maven sample application
 
-### Installation
+## Installation
 
 - Install Java
 - Install Maven
-- Install Tomcat
+
 
 - Build package: `$ mvn clean install`
 
